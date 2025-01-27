@@ -8,8 +8,8 @@ La **monitorización de procesos** es esencial para conocer el comportamiento de
 Proporciona una instantánea de los procesos en ejecución en el sistema. Se utiliza para obtener información sobre procesos activos y sus recursos asociados.
 
 - `ps`: Muestra todos los procesos actuales.
-- `ps -u root`: Muestra los procesos ejecutados por el usuario root.
-- `ps -ef`: Muestra todos los procesos con detalles extendidos.
+- `ps -a`: Muestra los procesos que están ejecutándose en el terminal actual, pero no incluye los procesos de otros usuarios.
+- `ps aux`: Combinación de tres opciones que proporciona una lista más completa de todos los procesos en ejecución en el sistema.
 
 ### TOP
 Muestra una lista dinámica y en tiempo real de los procesos en ejecución, permitiendo observar qué procesos consumen más recursos del sistema. A diferencia de `ps`, `top` se actualiza continuamente.

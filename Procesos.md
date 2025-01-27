@@ -28,19 +28,19 @@ Muestra una lista dinámica y en tiempo real de los procesos en ejecución, perm
 Es una versión mejorada de `top`, con una interfaz gráfica más amigable, que también muestra información en tiempo real de los procesos y recursos del sistema. Ofrece opciones interactivas como ordenar por diferentes columnas y visualizar los procesos en un árbol.
 
 - `htop`: Muestra una interfaz interactiva para monitorear los procesos.
-  ![ps -a]()
-- `htop -t`: Muestra los procesos en forma de árbol.
-  ![ps -a]()
-- `htop --sort-key PERCENT_MEM`: Ordena los procesos por uso de memoria.
-  ![ps -a]()
+  ![htop](https://github.com/josemanuellamprea/MONOTORIZACION/blob/main/Img/htop.png?raw=true)
+- `htop -u`: Se utiliza para mostrar solo los procesos que están siendo ejecutados por un usuario específico en el sistema.
+  ![htop -u](https://github.com/josemanuellamprea/MONOTORIZACION/blob/main/Img/htop%20-u.png?raw=true)
+- `htop --tree`: Cambia la forma en que se muestran los procesos, mostrándolos en forma de árbol.
+  ![htop --tree](https://github.com/josemanuellamprea/MONOTORIZACION/blob/main/Img/htop%20--tree.png?raw=true)
 
 ### ATOP
 Es una herramienta avanzada que ofrece una monitorización más detallada, mostrando estadísticas sobre el uso de CPU, disco, memoria, red y más. También puede almacenar registros históricos para su posterior análisis.
 
 - `atop`: Muestra el uso de recursos del sistema en tiempo real.
-  ![ps -a]()
+  ![atop](https://github.com/josemanuellamprea/MONOTORIZACION/blob/main/Img/atop.png?raw=true)
 - `atop -d 2`: Actualiza la información de los recursos cada 2 segundos.
-  ![ps -a]()
+  ![atop -d](https://github.com/josemanuellamprea/MONOTORIZACION/blob/main/Img/atop%20-d.png?raw=true)
 - `atop -a`: Muestra solo los procesos activos.
-  ![ps -a]()
+  ![atop -a](https://github.com/josemanuellamprea/MONOTORIZACION/blob/main/Img/atop%20-a.png?raw=true)
 

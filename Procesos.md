@@ -7,7 +7,7 @@ La **monitorización de procesos** es esencial para conocer el comportamiento de
 ### PS
 Proporciona una instantánea de los procesos en ejecución en el sistema. Se utiliza para obtener información sobre procesos activos y sus recursos asociados.
 
-- `ps`: Muestra todos los procesos actuales.
+- `ps`: Muestra todos los procesos actuales del sistema actualmente.
   ![ps](https://github.com/josemanuellamprea/MONOTORIZACION/blob/main/Img/ps.png?raw=true)
 - `ps -a`: Muestra los procesos que están ejecutándose en el terminal actual pero no incluye los procesos de otros usuarios.
   ![ps -a](https://github.com/josemanuellamprea/MONOTORIZACION/blob/main/Img/ps%20-a.png?raw=true)

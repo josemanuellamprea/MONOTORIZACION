@@ -7,7 +7,7 @@ En este repositorio se encuentra información referido a la monotorización de s
 
 ## **Índice** 
 - [Introducción.](Introduccion.md) 
-- [Monitorización de Procesos.](Monitorizacion-Procesos.md) 
-- [Monitorización del Almacenamiento.](Monitorizacion-Almacenamiento.md) 
-- [Monitorización de la Red.](Monitorizacion-Red.md) 
+- [Monitorización de Procesos.](Procesos.md) 
+- [Monitorización del Almacenamiento.](Almacenamiento.md) 
+- [Monitorización de la Red.](Red.md) 
 - [Referencias.](Referencias.md) 

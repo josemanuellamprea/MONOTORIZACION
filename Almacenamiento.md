@@ -44,7 +44,10 @@ El comando `du` (Disk Usage) muestra el espacio en disco utilizado por archivos 
 El comando `iostat` proporciona estadísticas sobre la utilización de la CPU y los dispositivos de almacenamiento (discos duros, SSDs, etc.). Es muy útil para analizar el rendimiento de los discos y la carga de la CPU.
 
 - `iostat`: Muestra estadísticas básicas de la utilización de CPU y discos.
+- ![iostat](https://github.com/josemanuellamprea/MONOTORIZACION/blob/main/Img/iostat.png?raw=true)
 - `iostat 1`: Actualiza las estadísticas cada segundo.
+- ![iostat 1](https://github.com/josemanuellamprea/MONOTORIZACION/blob/main/Img/iostat%201.png?raw=true)
 - `iostat -d`: Muestra estadísticas detalladas de todos los dispositivos de almacenamiento.
+- ![iostat -d](https://github.com/josemanuellamprea/MONOTORIZACION/blob/main/Img/iostat%20-d.png?raw=true)
 
 

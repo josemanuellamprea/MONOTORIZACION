@@ -22,8 +22,11 @@ El comando `free` proporciona toda la información sobre la RAM, incluyendo cuá
 El comando `df` (disk free) se utiliza para obtener un informe del espacio total, usado y disponible en los sistemas de archivos montados.
 
 - `df`: Muestra el uso del espacio en disco.
+  ![df](https://github.com/josemanuellamprea/MONOTORIZACION/blob/main/Img/df.png?raw=true)
 - `df -h`: Muestra el uso del espacio en disco en un formato legible (ej. GB).
-- `df /`: Muestra el uso del espacio en disco del sistema de archivos raíz.
+  ![df](https://github.com/josemanuellamprea/MONOTORIZACION/blob/main/Img/df%20-h.png?raw=true)
+- `df T`: Este comando muestra la información del espacio en disco, pero también indica el tipo de sistema de archivos para cada partición, como ext4, xfs, btrfs, entre otros.
+  ![df](https://github.com/josemanuellamprea/MONOTORIZACION/blob/main/Img/df%20-T.png?raw=true)
 
 ## 3. Comando `du`
 

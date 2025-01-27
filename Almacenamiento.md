@@ -33,8 +33,11 @@ El comando `df` (disk free) se utiliza para obtener un informe del espacio total
 El comando `du` (Disk Usage) muestra el espacio en disco utilizado por archivos y directorios en el sistema.
 
 - `du /ruta/al/directorio`: Muestra el tamaño de un directorio.
+- ![du](https://github.com/josemanuellamprea/MONOTORIZACION/blob/main/Img/du.png?raw=true)
 - `du -h /ruta/al/directorio`: Muestra el tamaño del directorio en un formato legible.
+- ![du -h](https://github.com/josemanuellamprea/MONOTORIZACION/blob/main/Img/du%20-h.png?raw=true)
 - `du -a /ruta/al/directorio`: Muestra el tamaño de todos los archivos y subdirectorios.
+- ![du -h](https://github.com/josemanuellamprea/MONOTORIZACION/blob/main/Img/du%20-a.png?raw=true)
 
 ## 4. Comando `iostat`
 

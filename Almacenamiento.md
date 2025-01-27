@@ -13,7 +13,9 @@ El comando `free` proporciona toda la información sobre la RAM, incluyendo cuá
 - `free`: Muestra la memoria total, usada y libre.
   ![Free](https://github.com/josemanuellamprea/MONOTORIZACION/blob/main/Img/Captura%20de%20pantalla%202025-01-27%20171205.png?raw=true)
 - `free -h`: El comando free -h muestra información sobre el uso de la memoria del sistema en un formato legible para humanos.
+  ![Free -h](https://github.com/josemanuellamprea/MONOTORIZACION/blob/main/Img/Captura%20de%20pantalla%202025-01-27%20171430.png?raw=true)
 - `free -b`: El comando free -b en Linux se utiliza para mostrar información sobre el uso de la memoria en el sistema, pero con la diferencia de que en lugar de mostrar los valores en un formato legible (como en KB, MB o GB), muestra el uso de la memoria en bytes.
+  ![Free -b](https://github.com/josemanuellamprea/MONOTORIZACION/blob/main/Img/Captura%20de%20pantalla%202025-01-27%20171357.png?raw=true)
 
 ## 2. Comando `df`
 

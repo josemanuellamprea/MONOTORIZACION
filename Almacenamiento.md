@@ -11,6 +11,7 @@ En esta Actividad veremos unos cuantos:
 El comando `free` proporciona toda la información sobre la RAM, incluyendo cuánta RAM se está utilizando, cuánta está disponible, etc. El comando sin opciones muestra los resultados para la memoria Total, Usada y Libre en tu ordenador o servidor.
 
 - `free`: Muestra la memoria total, usada y libre.
+  ![Free](https://github.com/josemanuellamprea/MONOTORIZACION/blob/main/Img/Captura%20de%20pantalla%202025-01-27%20171205.png?raw=true)
 - `free -h`: El comando free -h muestra información sobre el uso de la memoria del sistema en un formato legible para humanos.
 - `free -b`: El comando free -b en Linux se utiliza para mostrar información sobre el uso de la memoria en el sistema, pero con la diferencia de que en lugar de mostrar los valores en un formato legible (como en KB, MB o GB), muestra el uso de la memoria en bytes.
 

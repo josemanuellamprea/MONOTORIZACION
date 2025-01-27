@@ -30,16 +30,19 @@ Muestra las conexiones TCP activas en tiempo real, indicando las direcciones IP 
 Es una herramienta interactiva que ofrece estadísticas detalladas sobre el tráfico de red en tiempo real. Se utiliza para supervisar y analizar conexiones de red, tráfico de datos y más.
 
 - `sudo iptraf-ng Opcion: Ip traffic monitor`: Muestra estadísticas de tráfico en modo automático.
-  ![iptraf-ng]()
-- `sudo iptraf-ng -i eth0`: Muestra estadísticas de tráfico para la interfaz `eth0`.
-  ![iptraf-ng]()
-- `sudo iptraf-ng -B`: Ejecuta `iptraf-ng` en segundo plano y genera un informe de tráfico.
-  ![iptraf-ng]()
+  ![iptraf-ng](https://github.com/josemanuellamprea/MONOTORIZACION/blob/main/Img/iptraf-ng.png?raw=true)
+- `sudo iptraf-ng General Interface`: Muestra estadísticas de tráfico para la interfaz `eth0`.
+  ![iptraf-ng](https://github.com/josemanuellamprea/MONOTORIZACION/blob/main/Img/iptraf-ng%20general.png?raw=true)
+- `sudo iptraf-ng detailed interface`: Muestra los detalles explicadas numericamente
+  ![iptraf-ng](https://github.com/josemanuellamprea/MONOTORIZACION/blob/main/Img/iptraf-ng%20detailed.png?raw=true)
 
 ### NETSTAT
 Es una herramienta clásica para inspeccionar las conexiones de red, los puertos abiertos y las estadísticas de red.
 
 - `netstat -n`: Muestra todas las conexiones establecidas con direcciones numéricas.
+- ![netstat](https://github.com/josemanuellamprea/MONOTORIZACION/blob/main/Img/netstat%20-n.png?raw=true)
 - `netstat -p`: Muestra las conexiones de red y los programas asociados.
+- ![netstat](https://github.com/josemanuellamprea/MONOTORIZACION/blob/main/Img/netstat%20-p.png?raw=true)
 - `netstat -i`: Muestra estadísticas detalladas de las interfaces de red.
+- ![netstat](https://github.com/josemanuellamprea/MONOTORIZACION/blob/main/Img/netstat%20-i.png?raw=true)
 

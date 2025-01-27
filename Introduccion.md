@@ -1,4 +1,5 @@
 ## <h1 align="center"> INTRODUCCIÓN </h1> 
+![Monotorizacion](https://tobeit.es/wp-content/uploads/2024/02/TBI_blog_Monitorizacion_febrero2.jpg)
 
 
 >La monitorización del sistema es el proceso de observar y registrar en tiempo real el rendimiento, el uso de recursos y el estado general de los diferentes componentes de un sistema informático, como el procesador, la >memoria, el almacenamiento, la red y los servicios en ejecución.
@@ -15,4 +16,4 @@ Algunas de las métricas clave que se monitorean incluyen:
 
 >La monitorización permite a los administradores de sistemas detectar anomalías, cuellos de botella o fallos en los recursos del sistema, y tomar medidas proactivas para resolver problemas antes de que afecten el >funcionamiento general del entorno.
 
-![Monotorizacion](https://tobeit.es/wp-content/uploads/2024/02/TBI_blog_Monitorizacion_febrero2.jpg)
+

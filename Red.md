@@ -8,8 +8,13 @@ La **monitorización de la red** permite observar el tráfico de datos que fluye
 Es una herramienta cuya utilidad principal es analizar el tráfico que circula por la red. Permite al usuario capturar y mostrar en tiempo real los paquetes transmitidos y recibidos por la red a la cual el ordenador está conectado.
 
 - `tcpdump`: Captura todos los paquetes en la interfaz de red predeterminada.
-- `tcpdump -i eth0 host 192.168.1.1`: Captura paquetes que se envían desde o hacia la dirección IP 192.168.1.1 en la interfaz `eth0`.
-- `tcpdump -v`: Muestra solo las cabeceras de los paquetes en detalle.
+- ![tcpdump](https://github.com/josemanuellamprea/MONOTORIZACION/blob/main/Img/tcpdump.png?raw=true)
+- `tcpdump port`: Captura todos los paquetes que pasan por el puerto 80 (HTTP) en la interfaz
+  ![tcpdump](https://github.com/josemanuellamprea/MONOTORIZACION/blob/main/Img/tcpdump%20port%2080.png?raw=true)
+- `tcpdump -i eth0`: Captura solo los paquetes ICMP (utilizados por el comando ping y mensajes de control de red).
+- ![tcpdump](https://github.com/josemanuellamprea/MONOTORIZACION/blob/main/Img/tcpdump%20-i.png?raw=true)
+
+
 
 ### TCPTRACK
 Muestra las conexiones TCP activas en tiempo real, indicando las direcciones IP de origen y destino, el estado de la conexión y la cantidad de datos transmitidos.

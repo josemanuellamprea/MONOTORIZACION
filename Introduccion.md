@@ -14,3 +14,5 @@ Algunas de las métricas clave que se monitorean incluyen:
 - Temperatura de componentes: para evitar sobrecalentamientos.
 
 >La monitorización permite a los administradores de sistemas detectar anomalías, cuellos de botella o fallos en los recursos del sistema, y tomar medidas proactivas para resolver problemas antes de que afecten el >funcionamiento general del entorno.
+
+![Monotorizacion](https://tobeit.es/wp-content/uploads/2024/02/TBI_blog_Monitorizacion_febrero2.jpg)

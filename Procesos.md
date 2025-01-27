@@ -9,9 +9,9 @@ Proporciona una instantánea de los procesos en ejecución en el sistema. Se uti
 
 - `ps`: Muestra todos los procesos actuales.
   ![ps](https://github.com/josemanuellamprea/MONOTORIZACION/blob/main/Img/ps.png?raw=true)
-- `ps -a`: Muestra los procesos que están ejecutándose en el terminal actual, pero no incluye los procesos de otros usuarios.
+- `ps -a`: Muestra los procesos que están ejecutándose en el terminal actual pero no incluye los procesos de otros usuarios.
   ![ps -a](https://github.com/josemanuellamprea/MONOTORIZACION/blob/main/Img/ps%20-a.png?raw=true)
-- `ps aux`: Combinación de tres opciones que proporciona una lista más completa de todos los procesos en ejecución en el sistema.
+- `ps aux`: Combinación que proporciona una lista más completa de todos los procesos en ejecución en el sistema.
   ![ps aux](https://github.com/josemanuellamprea/MONOTORIZACION/blob/main/Img/ps%20aux.png?raw=true)
 
 ### TOP

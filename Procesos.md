@@ -17,12 +17,12 @@ Proporciona una instantánea de los procesos en ejecución en el sistema. Se uti
 ### TOP
 Muestra una lista dinámica y en tiempo real de los procesos en ejecución, permitiendo observar qué procesos consumen más recursos del sistema. A diferencia de `ps`, `top` se actualiza continuamente.
 
-- `top`: Muestra en tiempo real los procesos más activos.
-  ![ps -a]()
-- `top -m`: Muestra información de la memoria activada y desactivada.
-  ![ps -a]()
-- `top -u root`: Muestra los procesos del usuario root.
-  ![ps -a]()
+- `top`: Muestra en tiempo real los procesos más activos del sistema.
+  ![top](https://github.com/josemanuellamprea/MONOTORIZACION/blob/main/Img/top.png?raw=true)
+- `top -p`: Muestra solo el proceso con el ID especificado (PID) del sistema actualmente.
+  ![top -p](https://github.com/josemanuellamprea/MONOTORIZACION/blob/main/Img/top%20-p.png?raw=true)
+- `top -i root`: Ignora los procesos inactivos. Muestra solo los procesos activos en el sistema.
+  ![top -i](https://github.com/josemanuellamprea/MONOTORIZACION/blob/main/Img/top%20-i.png?raw=true)
 
 ### HTOP
 Es una versión mejorada de `top`, con una interfaz gráfica más amigable, que también muestra información en tiempo real de los procesos y recursos del sistema. Ofrece opciones interactivas como ordenar por diferentes columnas y visualizar los procesos en un árbol.
